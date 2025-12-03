@@ -341,5 +341,570 @@
       "Science"
     ],
     "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_019"
+  },
+  {
+    "id": 20,
+    "name": "Aetherial Builder",
+    "version": "1.4.0",
+    "title": "Procedural World Generation Mod for Minecraft.",
+    "description": "A massive Minecraft mod that completely overhauls world generation, adding new biomes, structures, and deep underground caverns.",
+    "category": "Minecraft Mod",
+    "size": "65 MB",
+    "rating": 4.9,
+    "downloads": "500K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/20.jpg",
+    "tags": [
+      "Minecraft",
+      "Modding",
+      "World Gen",
+      "Adventure"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_020"
+  },
+  {
+    "id": 21,
+    "name": "Chronos Traveler",
+    "version": "2.1.0",
+    "title": "Advanced Time Manipulation Tool and System Utility.",
+    "description": "A system utility that allows for sandboxed application testing and time-lapse recording of software performance for debugging.",
+    "category": "Security & Utility",
+    "size": "320 MB",
+    "rating": 4.7,
+    "downloads": "15K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/21.jpg",
+    "tags": [
+      "Utility",
+      "System",
+      "Debugging"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_021"
+  },
+  {
+    "id": 22,
+    "name": "ScriptSphere",
+    "version": "3.0.0",
+    "title": "Cross-Language Scripting Automation Platform.",
+    "description": "Automate complex workflows across multiple programming languages (Python, JavaScript, Shell) with an intuitive graphical interface.",
+    "category": "Developer Tools",
+    "size": "480 MB",
+    "rating": 4.6,
+    "downloads": "19K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/22.jpg",
+    "tags": [
+      "Automation",
+      "Scripting",
+      "DevOps"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_022"
+  },
+  {
+    "id": 23,
+    "name": "TerraForm RPG",
+    "version": "1.8.5",
+    "title": "In-Depth RPG System Mod for Minecraft.",
+    "description": "Adds character classes, skill trees, custom mobs, and a complete questing system to the Minecraft experience.",
+    "category": "Minecraft Mod",
+    "size": "80 MB",
+    "rating": 4.8,
+    "downloads": "420K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/23.jpg",
+    "tags": [
+      "Minecraft",
+      "RPG",
+      "Questing",
+      "Gaming"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_023"
+  },
+  {
+    "id": 24,
+    "name": "Veloce Video Suite",
+    "version": "6.0.0",
+    "title": "Non-Linear Video Editor with AI-Driven Color Correction.",
+    "description": "Professional video editing software featuring rapid rendering, advanced motion graphics tools, and AI-assisted grading.",
+    "category": "Audio & Video",
+    "size": "3.5 GB",
+    "rating": 4.8,
+    "downloads": "16K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/24.jpg",
+    "tags": [
+      "Video Editing",
+      "Post-Production",
+      "4K"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_024"
+  },
+  {
+    "id": 25,
+    "name": "LedgerFlow ERP",
+    "version": "5.1.0",
+    "title": "Integrated Enterprise Resource Planning and Accounting Software.",
+    "description": "Comprehensive cloud-based ERP solution for managing finance, inventory, and supply chain operations for mid-to-large businesses.",
+    "category": "Business & Data",
+    "size": "900 MB",
+    "rating": 4.5,
+    "downloads": "9K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/25.jpg",
+    "tags": [
+      "ERP",
+      "Finance",
+      "Accounting"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_025"
+  },
+  {
+    "id": 26,
+    "name": "AuraPaint Pro",
+    "version": "2.2.0",
+    "title": "Digital Painting Software with Realistic Brush Engine.",
+    "description": "A graphics application focused on digital artists, offering a highly customizable and pressure-sensitive brush engine for realistic media simulation.",
+    "category": "Design & Graphics",
+    "size": "750 MB",
+    "rating": 4.9,
+    "downloads": "30K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/26.jpg",
+    "tags": [
+      "Digital Art",
+      "Painting",
+      "Illustration"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_026"
+  },
+  {
+    "id": 27,
+    "name": "NetMonitor Agent",
+    "version": "4.0.1",
+    "title": "Advanced Network Traffic Analysis and Monitoring Tool.",
+    "description": "Provides deep packet inspection, real-time traffic visualization, and anomaly detection for enterprise networks.",
+    "category": "Security & Utility",
+    "size": "200 MB",
+    "rating": 4.7,
+    "downloads": "18K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/27.jpg",
+    "tags": [
+      "Network",
+      "Monitoring",
+      "Troubleshooting"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_027"
+  },
+  {
+    "id": 28,
+    "name": "Infinity Game Engine",
+    "version": "1.0.0",
+    "title": "Cross-Platform Modular Game Development Framework.",
+    "description": "A powerful, open-source game engine that supports 2D and 3D development with a node-based visual scripting system.",
+    "category": "Developer Tools",
+    "size": "1.8 GB",
+    "rating": 4.8,
+    "downloads": "25K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/28.jpg",
+    "tags": [
+      "Game Dev",
+      "Engine",
+      "3D"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_028"
+  },
+  {
+    "id": 29,
+    "name": "ZenFlow Focus",
+    "version": "1.0.5",
+    "title": "Distraction-Free Writing and Focus Management Application.",
+    "description": "A productivity tool that offers a minimalist writing interface, Pomodoro timer, and ambient soundscapes to enhance concentration.",
+    "category": "Productivity",
+    "size": "100 MB",
+    "rating": 4.9,
+    "downloads": "55K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/29.jpg",
+    "tags": [
+      "Writing",
+      "Focus",
+      "Pomodoro"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_029"
+  },
+  {
+    "id": 30,
+    "name": "AeroFlight Simulator",
+    "version": "2025.1",
+    "title": "Hyper-Realistic Global Flight Simulation Software.",
+    "description": "A state-of-the-art flight simulator with real-time weather, high-fidelity aircraft models, and global satellite imagery.",
+    "category": "Entertainment",
+    "size": "100 GB",
+    "rating": 4.7,
+    "downloads": "50K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/30.jpg",
+    "tags": [
+      "Simulation",
+      "Flight",
+      "Gaming"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_030"
+  },
+  {
+    "id": 31,
+    "name": "Cryptor Secure Drive",
+    "version": "3.3.1",
+    "title": "Military-Grade Full Disk Encryption Utility.",
+    "description": "Creates secure, encrypted virtual drives using AES-256 for maximum data protection and privacy.",
+    "category": "Security & Utility",
+    "size": "80 MB",
+    "rating": 4.9,
+    "downloads": "45K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/31.jpg",
+    "tags": [
+      "Encryption",
+      "Security",
+      "Privacy"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_031"
+  },
+  {
+    "id": 32,
+    "name": "Harmony Mix Console",
+    "version": "1.0.1",
+    "title": "AI-Assisted Multi-Track Audio Mixing Software.",
+    "description": "A post-production tool that uses AI to suggest equalization, compression, and reverb settings for quick and professional audio mixes.",
+    "category": "Audio & Video",
+    "size": "1.5 GB",
+    "rating": 4.7,
+    "downloads": "8K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/32.jpg",
+    "tags": [
+      "Audio",
+      "Mixing",
+      "AI",
+      "DAW"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_032"
+  },
+  {
+    "id": 33,
+    "name": "Archivus PDF Suite",
+    "version": "7.0.0",
+    "title": "Comprehensive PDF Editor, Converter, and Document Manager.",
+    "description": "Full-featured PDF utility for creating, editing, signing, and converting PDF documents with advanced OCR capabilities.",
+    "category": "Productivity",
+    "size": "600 MB",
+    "rating": 4.6,
+    "downloads": "90K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/33.jpg",
+    "tags": [
+      "PDF",
+      "Document",
+      "Office"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_033"
+  },
+  {
+    "id": 34,
+    "name": "DataBridge ETL",
+    "version": "4.5.0",
+    "title": "No-Code Data Extraction, Transformation, and Loading (ETL) Tool.",
+    "description": "Simplify data migration and warehousing with a visual interface for connecting to, cleaning, and transforming data from any source.",
+    "category": "Business & Data",
+    "size": "550 MB",
+    "rating": 4.8,
+    "downloads": "10K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/34.jpg",
+    "tags": [
+      "Data Science",
+      "ETL",
+      "Big Data"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_034"
+  },
+  {
+    "id": 35,
+    "name": "SkyBlock Expanded",
+    "version": "3.0.0",
+    "title": "Massive SkyBlock Quality-of-Life and Content Modpack.",
+    "description": "An essential modpack for SkyBlock players, adding automation, new tiers of resources, and utility blocks.",
+    "category": "Minecraft Mod",
+    "size": "120 MB",
+    "rating": 4.7,
+    "downloads": "300K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/35.jpg",
+    "tags": [
+      "Minecraft",
+      "Automation",
+      "Utility",
+      "SkyBlock"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_035"
+  },
+  {
+    "id": 36,
+    "name": "UI/UX Prototyper",
+    "version": "1.9.0",
+    "title": "Collaborative Interface Design and Prototyping Tool.",
+    "description": "Design interactive user interfaces with vector tools, shared libraries, and real-time collaboration features.",
+    "category": "Design & Graphics",
+    "size": "400 MB",
+    "rating": 4.7,
+    "downloads": "25K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/36.jpg",
+    "tags": [
+      "UI/UX",
+      "Design",
+      "Prototyping"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_036"
+  },
+  {
+    "id": 37,
+    "name": "WebScraper Ninja",
+    "version": "2.0.4",
+    "title": "Visual Web Scraping Tool with Advanced Bot Detection Evasion.",
+    "description": "Extract data from complex websites using a point-and-click interface, capable of handling dynamic content and CAPTCHAs.",
+    "category": "Developer Tools",
+    "size": "350 MB",
+    "rating": 4.5,
+    "downloads": "13K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/37.jpg",
+    "tags": [
+      "Web Dev",
+      "Data Mining",
+      "Automation"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_037"
+  },
+  {
+    "id": 38,
+    "name": "OmniVault Password Manager",
+    "version": "5.5.0",
+    "title": "Secure, Cross-Platform Password and Sensitive Data Manager.",
+    "description": "Stores and synchronizes encrypted passwords, notes, and files across all devices with multi-factor authentication support.",
+    "category": "Security & Utility",
+    "size": "50 MB",
+    "rating": 4.9,
+    "downloads": "120K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/38.jpg",
+    "tags": [
+      "Password Manager",
+      "Security",
+      "Utility"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_038"
+  },
+  {
+    "id": 39,
+    "name": "SpectraSynth VST",
+    "version": "1.2.0",
+    "title": "Polyphonic Wavetable Synthesizer Plugin (VST/AU).",
+    "description": "A professional-grade virtual instrument for music producers, offering deep sound design with an expansive wavetable library.",
+    "category": "Audio & Video",
+    "size": "800 MB",
+    "rating": 4.8,
+    "downloads": "7K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/39.jpg",
+    "tags": [
+      "Music",
+      "VST",
+      "Synthesizer"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_039"
+  },
+  {
+    "id": 40,
+    "name": "Civilization Builder 5",
+    "version": "5.2.0",
+    "title": "Grand Strategy City Builder and Historical Simulation Game.",
+    "description": "Manage a growing society from the stone age to the information era in this deep, turn-based strategy simulation.",
+    "category": "Entertainment",
+    "size": "8.5 GB",
+    "rating": 4.5,
+    "downloads": "80K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/40.jpg",
+    "tags": [
+      "Gaming",
+      "Strategy",
+      "Simulation"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_040"
+  },
+  {
+    "id": 41,
+    "name": "AgileSprint Planner",
+    "version": "2.0.0",
+    "title": "Scrum and Agile Project Management Tool for Distributed Teams.",
+    "description": "Specialized software for sprint planning, backlog management, and velocity tracking, optimized for remote workforces.",
+    "category": "Productivity",
+    "size": "280 MB",
+    "rating": 4.7,
+    "downloads": "20K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/41.jpg",
+    "tags": [
+      "Agile",
+      "Scrum",
+      "Teamwork"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_041"
+  },
+  {
+    "id": 42,
+    "name": "Cryptic Currency Trader",
+    "version": "3.1.5",
+    "title": "Secure Cryptocurrency Portfolio Management and Trading Bot.",
+    "description": "Offers real-time market data, technical analysis tools, and automated trading strategies for major cryptocurrencies.",
+    "category": "Business & Data",
+    "size": "280 MB",
+    "rating": 4.6,
+    "downloads": "15K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/42.jpg",
+    "tags": [
+      "Finance",
+      "Crypto",
+      "Trading"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_042"
+  },
+  {
+    "id": 43,
+    "name": "DockerPilot",
+    "version": "1.0.8",
+    "title": "Graphical User Interface for Docker Container Management.",
+    "description": "Simplify the deployment, scaling, and management of Docker containers and Docker Compose stacks via a user-friendly GUI.",
+    "category": "Developer Tools",
+    "size": "220 MB",
+    "rating": 4.8,
+    "downloads": "11K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/43.jpg",
+    "tags": [
+      "DevOps",
+      "Docker",
+      "Containers"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_043"
+  },
+  {
+    "id": 44,
+    "name": "ShaderSphere Designer",
+    "version": "4.0.0",
+    "title": "Node-Based Shader and Material Creation for Real-Time Engines.",
+    "description": "Visually build complex materials and effects without writing code, with real-time previewing for major game engines and renderers.",
+    "category": "Design & Graphics",
+    "size": "1.4 GB",
+    "rating": 4.9,
+    "downloads": "17K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/44.jpg",
+    "tags": [
+      "3D",
+      "Shaders",
+      "VFX",
+      "Art"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_044"
+  },
+  {
+    "id": 45,
+    "name": "Realm of Magic",
+    "version": "1.5.2",
+    "title": "Comprehensive Magic and Spellcasting Mod for Minecraft.",
+    "description": "Introduces a deep magic system, custom wands, powerful spells, and new dimensions to explore within Minecraft.",
+    "category": "Minecraft Mod",
+    "size": "95 MB",
+    "rating": 4.9,
+    "downloads": "650K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/45.jpg",
+    "tags": [
+      "Minecraft",
+      "Magic",
+      "Adventure",
+      "Fantasy"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_045"
+  },
+  {
+    "id": 46,
+    "name": "Zenith AI Writer",
+    "version": "1.1.0",
+    "title": "AI-Powered Content Generation and SEO Optimization Tool.",
+    "description": "Generate articles, blog posts, and marketing copy using advanced natural language models, complete with SEO analysis.",
+    "category": "Productivity",
+    "size": "400 MB",
+    "rating": 4.5,
+    "downloads": "10K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/46.jpg",
+    "tags": [
+      "AI",
+      "Writing",
+      "SEO",
+      "Marketing"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_046"
+  },
+  {
+    "id": 47,
+    "name": "DriveCleaner Pro",
+    "version": "6.0.0",
+    "title": "System Optimization and Junk File Removal Utility.",
+    "description": "Deep scan and safely remove temporary files, registry errors, and browser junk to optimize system performance.",
+    "category": "Security & Utility",
+    "size": "60 MB",
+    "rating": 4.7,
+    "downloads": "70K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/47.jpg",
+    "tags": [
+      "Utility",
+      "Optimization",
+      "Cleanup"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_047"
+  },
+  {
+    "id": 48,
+    "name": "VectorTrace Converter",
+    "version": "1.5.0",
+    "title": "High-Fidelity Raster to Vector Image Conversion Tool.",
+    "description": "Convert complex bitmap images into editable vector graphics with a high degree of precision and minimal artifacts.",
+    "category": "Design & Graphics",
+    "size": "300 MB",
+    "rating": 4.6,
+    "downloads": "22K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/48.jpg",
+    "tags": [
+      "Vector",
+      "Converter",
+      "Design"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_048"
+  },
+  {
+    "id": 49,
+    "name": "CloudNine Backup",
+    "version": "2.2.0",
+    "title": "Automated, Encrypted Cloud Backup and Disaster Recovery Solution.",
+    "description": "Schedules and performs secure, incremental backups to major cloud providers with one-click restore functionality.",
+    "category": "Security & Utility",
+    "size": "150 MB",
+    "rating": 4.8,
+    "downloads": "30K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/49.jpg",
+    "tags": [
+      "Backup",
+      "Cloud",
+      "Data Recovery"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_049"
+  },
+  {
+    "id": 50,
+    "name": "CodeAudit Pro",
+    "version": "1.3.0",
+    "title": "Static Code Analysis and Security Vulnerability Scanner.",
+    "description": "Automatically scans source code for bugs, style violations, and critical security flaws across multiple programming languages.",
+    "category": "Developer Tools",
+    "size": "780 MB",
+    "rating": 4.7,
+    "downloads": "9K+",
+    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/50.jpg",
+    "tags": [
+      "Security",
+      "Testing",
+      "Code Quality"
+    ],
+    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_050"
   }
 ]
