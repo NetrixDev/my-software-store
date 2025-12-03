@@ -1,1 +1,14 @@
-
+// home.json
+{
+  "hero_section": {
+    "tagline": "Achieve 20% More Every Week",
+    "title_part1": "The",
+    "title_highlight": "ultimate tool",
+    "title_part2": "for focus and flow",
+    "subtitle": "Stop struggling with scattered notes and endless lists. TaskFlow Pro is the AI-powered task manager that keeps your mind clear and your goals on track.",
+    "cta_primary_text": "Start Organizing Now",
+    "cta_primary_link": "/start-taskflow",
+    "cta_secondary_text": "View Pricing",
+    "cta_secondary_link": "/view-pricing"
+  }
+}
