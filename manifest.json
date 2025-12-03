@@ -341,23 +341,5 @@
       "Science"
     ],
     "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_019"
-  },
-  {
-    "id": 20,
-    "name": "CryptoKey Vault",
-    "version": "2.2.0",
-    "title": "Secure Hardware-Backed Cryptocurrency Wallet Manager.",
-    "description": "Manages multiple cryptocurrency wallets with secure cold storage features and integration for various hardware wallets.",
-    "category": "Security & Utility",
-    "size": "80 MB",
-    "rating": 4.9,
-    "downloads": "45K+",
-    "screenshot": "https://github.com/NetrixDev/my-software-store/blob/main/Software_Screen_Shot/20.jpg",
-    "tags": [
-      "Crypto",
-      "Wallet",
-      "Security"
-    ],
-    "downloadLink": "https://drive.google.com/uc?export=download&id=FAKE_FILE_ID_020"
   }
 ]
